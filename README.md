@@ -1,0 +1,2 @@
+# angular_library
+myLibrary
